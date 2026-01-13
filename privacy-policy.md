@@ -63,6 +63,30 @@ You have the right to:
 - Delete your data (by clearing app data or uninstalling)
 - Opt out of analytics (in app settings, if available)
 
+## Data Deletion
+
+### How to Delete Your Data
+
+**Local Data (Session History, Settings):**
+1. Go to your device Settings → Apps → PosturePal
+2. Tap "Clear Data" or "Clear Storage"
+3. Alternatively, uninstall the app to remove all local data
+
+**Subscription Data (RevenueCat):**
+If you want us to delete any subscription-related data stored by our payment processor:
+1. Email us at support@posturepalapp.com
+2. Include "Data Deletion Request" in the subject line
+3. We will process your request within 30 days
+
+**What Gets Deleted:**
+- All posture session history
+- App settings and preferences
+- Subscription status cache
+
+**What We Cannot Delete:**
+- Google Play purchase records (managed by Google)
+- Any data you've exported or shared outside the app
+
 ## Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the app.
